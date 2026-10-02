@@ -1,0 +1,1 @@
+uv run --with opencv-python --with face_recognition --with numpy python attendance.py  
